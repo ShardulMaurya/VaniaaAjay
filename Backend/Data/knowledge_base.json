@@ -1,0 +1,132 @@
+{
+  "districts": {
+    "Bhopal": {
+      "state": "Madhya Pradesh",
+      "agro_climatic_zone": "Central Plateau & Hill Region",
+      "prominent_crops": ["Soybean", "Wheat", "Gram", "Vegetables"],
+      "emerging_livelihoods": [
+        "Solar Agricultural Pump Servicing",
+        "Cold Chain & Dairy Processing",
+        "Organic Fertilizer & Bio-Pesticide Production",
+        "Mushroom Cultivation & Micro-Packaging",
+        "Two-Wheeler & Agri-Machinery Repair"
+      ],
+      "active_training_centers": [
+        {"name": "Bhopal Rural Kaushal Vikas Kendra", "location": "Berasia Road", "contact": "0755-2489100"},
+        {"name": "Govt ITI & Vocational Training Institute", "location": "Govindpura", "contact": "0755-2587123"}
+      ]
+    },
+    "Varanasi": {
+      "state": "Uttar Pradesh",
+      "agro_climatic_zone": "Middle Gangetic Plain",
+      "prominent_crops": ["Paddy", "Mustard", "Vegetables", "Guava"],
+      "emerging_livelihoods": [
+        "Handloom & Technical Textile Crafting",
+        "Solar Micro-Grid Installation",
+        "Agro-Produce Storage & Primary Processing",
+        "Food Grain Milling & Spice Grinding",
+        "Poultry & Dairy Farm Management"
+      ],
+      "active_training_centers": [
+        {"name": "Kashi Livelihood Skill Academy", "location": "Chauka Ghat", "contact": "0542-2501234"},
+        {"name": "District Rural Self Employment Training (RSETI)", "location": "Rohania", "contact": "0542-2612987"}
+      ]
+    },
+    "Patna": {
+      "state": "Bihar",
+      "agro_climatic_zone": "Lower Gangetic Plain",
+      "prominent_crops": ["Maize", "Paddy", "Litchi", "Pulses"],
+      "emerging_livelihoods": [
+        "Makhana & Food Processing Operations",
+        "Cold Storage & Grain Warehouse In-charge",
+        "Micro-Irrigation & Drip Technician",
+        "Fishery Pond Management & Aqua-Tech"
+      ],
+      "active_training_centers": [
+        {"name": "Patna Pradhan Mantri Kaushal Kendra", "location": "Danapur", "contact": "0612-2398711"}
+      ]
+    }
+  },
+  "nsqf_courses": [
+    {
+      "qp_code": "AGR/Q1101",
+      "job_role": "Micro-Irrigation Technician",
+      "nsqf_level": 4,
+      "sector": "Agriculture & Allied",
+      "min_education": "8th Pass",
+      "duration_hours": 300,
+      "keywords": ["irrigation", "water", "pipe", "drip", "sprinkler", "boring", "pump", "सिंचाई", "ड्रिप", "पाइप", "पानी"],
+      "description": "Installs, tests, and repairs drip and sprinkler micro-irrigation systems in farm fields.",
+      "self_employment_potential": "High (can start irrigation installation and spare parts business in local blocks)",
+      "wage_employment_avg_monthly": 16000
+    },
+    {
+      "qp_code": "AGR/Q6103",
+      "job_role": "Dairy Farmer / Milk Collection In-charge",
+      "nsqf_level": 3,
+      "sector": "Agriculture & Dairy",
+      "min_education": "5th Pass",
+      "duration_hours": 240,
+      "keywords": ["dairy", "cow", "buffalo", "milk", "cattle", "ghee", "दूध", "डेयरी", "गाय", "भैंस", "पशुपालन"],
+      "description": "Manages scientific cattle rearing, fodder cultivation, hygienic milking, and bulk milk chilling.",
+      "self_employment_potential": "Very High (eligible for subsidized cattle purchase and chilling unit under PM-AJAY)",
+      "wage_employment_avg_monthly": 15000
+    },
+    {
+      "qp_code": "SGJ/Q0102",
+      "job_role": "Solar PV Rooftop & Agricultural Pump Installer",
+      "nsqf_level": 4,
+      "sector": "Green Energy & Renewables",
+      "min_education": "10th Pass or 8th Pass with 1 yr experience",
+      "duration_hours": 350,
+      "keywords": ["solar", "pump", "electricity", "panel", "green energy", "सोलर", "बिजली", "सोलर पंप", "पैनल"],
+      "description": "Installs and maintains solar panels, DC pumps, inverters, and battery systems for rural farms.",
+      "self_employment_potential": "Very High (PM-KUSUM pump maintenance contracts and regional dealership)",
+      "wage_employment_avg_monthly": 20000
+    },
+    {
+      "qp_code": "FIC/Q0103",
+      "job_role": "Food Grain & Spice Processing Operator",
+      "nsqf_level": 3,
+      "sector": "Food Processing (FICSI)",
+      "min_education": "8th Pass",
+      "duration_hours": 270,
+      "keywords": ["food", "spice", "grain", "flour", "mill", "oil", "मसाला", "अनाज", "आटा चक्की", "खाद्य प्रसंस्करण"],
+      "description": "Operates grain cleaning, milling, pulverizing, oil extraction, and hygienic vacuum packaging machines.",
+      "self_employment_potential": "High (Micro-enterprise flour/spice processing mill under PM-AJAY GIA grant)",
+      "wage_employment_avg_monthly": 14000
+    },
+    {
+      "qp_code": "AGR/Q7801",
+      "job_role": "Mushroom Grower & Organic Composter",
+      "nsqf_level": 3,
+      "sector": "Agriculture & Agro-Tech",
+      "min_education": "Non-matriculate / 5th Pass",
+      "duration_hours": 200,
+      "keywords": ["mushroom", "compost", "organic", "farming", "fertilizer", "मशरूम", "खाद", "जैविक खेती"],
+      "description": "Cultivates oyster and button mushrooms using crop residue, prepares organic vermicompost.",
+      "self_employment_potential": "Exceptional (requires low capital, high return for SC Self-Help Groups/SHGs)",
+      "wage_employment_avg_monthly": 13000
+    },
+    {
+      "qp_code": "ASC/Q1402",
+      "job_role": "Agri-Machinery & Two-Wheeler Service Technician",
+      "nsqf_level": 4,
+      "sector": "Automotive & Farm Mechanization",
+      "min_education": "8th Pass",
+      "duration_hours": 360,
+      "keywords": ["tractor", "motorcycle", "bike", "mechanic", "repair", "engine", "ट्रैक्टर", "मैकेनिक", "मरम्मत"],
+      "description": "Troubleshoots and overhauls diesel engines, tractors, tillers, and two-wheelers in village service centers.",
+      "self_employment_potential": "Very High (Independent repair workshop and spare parts depot)",
+      "wage_employment_avg_monthly": 18000
+    }
+  ],
+  "pm_ajay_gia_guidelines": {
+    "scheme_name": "PM-AJAY Grant-in-Aid (GIA) Component",
+    "target_beneficiaries": "Scheduled Caste (SC) individuals and Self-Help Groups with annual family income up to ₹3,00,000",
+    "skill_development_stipend": "100% Free Government-funded training with daily food/conveyance stipend (₹1,500 - ₹2,500/month)",
+    "tool_kit_grant": "Up to ₹15,000 free toolkit grant upon certified NSQF course completion",
+    "micro_enterprise_capital_subsidy": "Up to ₹50,000 or 50% of project cost (whichever is lower) as direct non-refundable grant for setting up individual enterprise; Up to ₹10,00,000 for SC Self-Help Groups / FPOs",
+    "credit_linkage": "Zero-collateral bank loan linkage via National Scheduled Castes Finance and Development Corporation (NSFDC)"
+  }
+}
